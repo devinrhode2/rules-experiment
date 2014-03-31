@@ -6,4 +6,6 @@ Any hard and fast rules need to have an agreed upon enforcement method. In reali
 
 In lieu of defining a specific group of people, say a set of roommates, people of a city, let's focus on first establishing the most general rules for people, the unspoken and assumed, laws that . Concrete, complete, but easily digestible definitions of simple things like "No stealing" which requires definitions of property, what can and cannot be property, and positive and negative consequnces for the occurence or absense of stealing. Definitions of exceptions like borrowing?
 
+Maybe defining rules for everyone in general is too much to deal with at first... if you believe this is the case then we need another group of people to work within.
+
 Next: After rules are agreed upon, write section explaining how they are 'accepted' and added to a list.
